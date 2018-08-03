@@ -1,0 +1,9 @@
+GIT_REPO: https://github.com/LamontSmith/concourse-demo.git
+GIT_BRANCH: master
+CF_API: https://api.run.pivotal.io
+CF_USER: cstewart@pivotal.io
+CF_PASS: 674621cW$
+CF_ORG: Channel
+CF_SPACE: Cam
+GIT_PRIVATE_KEY: 
+    
