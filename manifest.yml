@@ -1,5 +1,5 @@
 ---
 applications:
-- name: fun-app
+- name: concourse-app
   instances: 1
   random-route: true
