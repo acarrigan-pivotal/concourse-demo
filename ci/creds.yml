@@ -1,9 +1,9 @@
-GIT_REPO: https://github.com/LamontSmith/concourse-demo.git
+GIT_REPO: https://github.com/acarrigan-pivotal/concourse-demo.git
 GIT_BRANCH: master
 CF_API: https://api.run.pivotal.io
-CF_USER: lsmith@pivotal.io
-CF_PASS: Kimono23$
+CF_USER: acarrigan@pivotal.io
+CF_PASS: P!v0t4l1066754
 CF_ORG: Channel
-CF_SPACE: Lamont
+CF_SPACE: acarrigan
 GIT_PRIVATE_KEY: 
     
