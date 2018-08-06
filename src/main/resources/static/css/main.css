@@ -5,8 +5,13 @@
 
 }
 
+#body{
+    background-color: black
+
+    }
+
 .message{
     padding: 20px;
     font-size: 40px;
-    font-color: yellow;
+    font-color: white;
 }
