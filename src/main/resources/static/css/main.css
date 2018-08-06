@@ -1,17 +1,11 @@
 #main{
     text-align: center;
     margin-top: 5%;
-    background-color: black;
 
 }
-
-#body{
-    background-color: black;
-
-    }
 
 .message{
     padding: 20px;
     font-size: 40px;
-    font-color: white;
+    font-color: yellow;
 }
