@@ -1,11 +1,12 @@
 #main{
     text-align: center;
     margin-top: 5%;
-   /* background-color: hotpink;  */
+    background-color: black;
 
 }
 
 .message{
     padding: 20px;
     font-size: 40px;
+    font-color: yellow;
 }
